@@ -1,2 +1,4 @@
 # SQL-Data-Cleaning-project-layoffs-
-My new SQL Data Cleaning project to display my skills
+Following my SQL project displaying my skills.
+
+This project analyzes global layoff data, focusing on trends in employee layoffs across various companies, industries, and countries. By examining factors such as total employees laid off and the percentage of workforce reductions, the analysis provides insights into how different industries and regions responded to economic challenges. The data, sourced from [Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022?resource=download), spans the early pandemic period through recent years, offering a comprehensive view of industry-wide impacts and recovery patterns. Key findings include ranking the top companies by layoffs annually and identifying patterns in workforce reductions by industry and country.
